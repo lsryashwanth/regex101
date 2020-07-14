@@ -1,0 +1,4 @@
+This File will track all the upcoming scripts to be included in this repo
+* simple regex matching 
+* multiple chars 
+* grouping 
